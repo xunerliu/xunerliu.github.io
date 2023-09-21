@@ -10,12 +10,12 @@ redirect_from:
 姓名（name）：刘咨汛(xuner_liu)<br>
 学校(school)：中国海洋大学(Ocean Univerisity of China)<br>
 专业（major）：计算机科学与技术(Computer Science and Technology)<br>
-奖项（awards）： 2022-2023学年社会实践奖学金；<br>
-                2022年理创大赛上海赛区优胜奖；<br>
+奖项（awards）： 2022-2023学年社会实践奖学金；
+                2022年理创大赛上海赛区优胜奖；
                 2021-2022学年综合三等奖学金；<br>
-荣誉（honors）：2022-2023学年优秀学生干部；<br>
-               2022年优秀团员；<br>
-               2021-2022学年优秀学生；<br>
+荣誉（honors）：2022-2023学年优秀学生干部；
+               2022年优秀团员；
+               2021-2022学年优秀学生；
                2021-2022学年校庆杯冠军<br>
 爱好（hobbies）：足球、篮球、乒乓球、象棋、国际象棋<br>
 最喜欢的明星（favorite player）：Cristiano Ronaldo<br>
