@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-姓名（name）：刘咨汛(xuner_liu)
-学校(school)：中国海洋大学(Ocean Univerisity of China)
+姓名（name）：刘咨汛(xuner_liu)<br>
+学校(school)：中国海洋大学(Ocean Univerisity of China)<br>
 专业（major）：计算机科学与技术(Computer Science and Technology)
 奖项（awards）： 2022-2023学年社会实践奖学金；
                 2022年理创大赛上海赛区优胜奖；
