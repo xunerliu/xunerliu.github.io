@@ -1,23 +1,37 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "我的基本信息"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+姓名（name）：刘咨汛(xuner_liu)
+学校(school)：中国海洋大学(Ocean Univerisity of China)
+专业（major）：计算机科学与技术(Computer Science and Technology)
+奖项（awards）： 2022-2023学年社会实践奖学金；
+                2022年理创大赛上海赛区优胜奖；
+                2021-2022学年综合三等奖学金；
+荣誉（honors）：2022-2023学年优秀学生干部；
+               2022年优秀团员；
+               2021-2022学年优秀学生；
+               2021-2022学年校庆杯冠军
+爱好（hobbies）：足球、篮球、乒乓球、象棋、国际象棋
+![在这里贴照哦片](/images/editing-talk.png)
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+自我评估
 ======
+经过过去两年多的学习，我已经掌握了包括C、C++、JAVA、VERILOG等编程语言，学习了信息系统开发、人机交互等专业知识。但是我现在的知识体系有着杂乱且无精细的问题，没有突出的能力，所以在接下来的学习中，我还需要增长自己的专业能力，精进自己的技术。
+![在这里贴照哦片](/images/editing-talk.png)
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+未来三年的规划
 ======
+就目前来看，我的专业知识能力还不够强，所以我打算考研继续深造。理想的学校还是本科学校中国海洋大学，希望可以学到更多的知识，并可以在毕业之后找到一个钱多活少的工作~
+![在这里贴照哦片](/images/editing-talk.png)
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
