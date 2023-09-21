@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "xunerliu"
-  avatar           : "profile.png"
-  bio              : "emm，又掉头发了"
-  location         : "Location"
+  avatar           : "c1.png"
+  bio              : "emm，又掉头发了。大三的计算机萌新一枚，目前头发还算茂盛"
+  location         : "Qingdao"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://www.github.com/xunerliu"
+  github           : #"https://www.github.com/xunerliu"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.weibo.com/u/7426631990"
+  weibo            : #"https://www.weibo.com/u/7426631990"
   xing             :
   youtube          :
   wikipedia        :
