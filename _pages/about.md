@@ -19,6 +19,7 @@ redirect_from:
                2021-2022学年校庆杯冠军<br>
 爱好（hobbies）：足球、篮球、乒乓球、象棋、国际象棋<br>
 最喜欢的明星（favorite player）：Cristiano Ronaldo<br>
+想要了解更多欢迎来到我的微博[@cluer119](https://www.weibo.com/u/7426631990),知乎[@不是迅哥](https://www.zhihu.com/people/bu-shi-xun-ge)
 ![在这里贴照哦片](/images/guanjun.jpg)
 
 
